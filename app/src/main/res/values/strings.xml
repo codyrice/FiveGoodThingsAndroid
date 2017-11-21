@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FiveGoodThingsAndroid</string>
+    <string name="current_feeling">How are you feeling today?</string>
+    <string name="button_next">Next</string>
 </resources>
