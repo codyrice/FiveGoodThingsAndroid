@@ -1,10 +1,9 @@
 package com.codyrice.fivegoodthingsandroid;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.SeekBar;
 import android.widget.TextView;
 
 public class DisplayMessageActivity extends AppCompatActivity {
